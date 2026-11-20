@@ -1,0 +1,15 @@
+{
+ "name": "Ox Cart",
+ "slug": "ox-cart",
+ "zip": "ox-cart.zip",
+ "file": "ox-cart/ox-cart.zip",
+ "author": "Polyfork",
+ "url": "https://polyfork.dev/asset/ox-cart-c12bca",
+ "license": "CC-BY 4.0",
+ "attr": "Ox Cart by Polyfork (https://polyfork.dev/asset/ox-cart-c12bca), CC BY 4.0",
+ "date": "2026-11-20",
+ "tags": "3d,polyfork,lowpoly",
+ "notes": "Polyfork 무료 모델, 메시(GLB)는 CC BY 4.0 선택 (https://polyfork.dev/licensing 확인); 미리보기는 GLB 를 러너에서 직접 렌더; 자동 수집",
+ "preview": "preview.png",
+ "kind": "3D 모델"
+}
