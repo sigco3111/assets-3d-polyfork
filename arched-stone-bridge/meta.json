@@ -1,0 +1,15 @@
+{
+ "name": "Arched Stone Bridge",
+ "slug": "arched-stone-bridge",
+ "zip": "arched-stone-bridge.zip",
+ "file": "arched-stone-bridge/arched-stone-bridge.zip",
+ "author": "Polyfork",
+ "url": "https://polyfork.dev/asset/arched-stone-bridge-9474cf",
+ "license": "CC-BY 4.0",
+ "attr": "Arched Stone Bridge by Polyfork (https://polyfork.dev/asset/arched-stone-bridge-9474cf), CC BY 4.0",
+ "date": "2026-11-21",
+ "tags": "3d,polyfork,lowpoly",
+ "notes": "Polyfork 무료 모델, 메시(GLB)는 CC BY 4.0 선택 (https://polyfork.dev/licensing 확인); 미리보기는 GLB 를 러너에서 직접 렌더; 자동 수집",
+ "preview": "preview.png",
+ "kind": "3D 모델"
+}
