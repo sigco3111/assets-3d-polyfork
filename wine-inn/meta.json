@@ -1,0 +1,15 @@
+{
+ "name": "Wine Inn",
+ "slug": "wine-inn",
+ "zip": "wine-inn.zip",
+ "file": "wine-inn/wine-inn.zip",
+ "author": "Polyfork",
+ "url": "https://polyfork.dev/asset/wine-inn-a41b12",
+ "license": "CC-BY 4.0",
+ "attr": "Wine Inn by Polyfork (https://polyfork.dev/asset/wine-inn-a41b12), CC BY 4.0",
+ "date": "2026-11-21",
+ "tags": "3d,polyfork,lowpoly",
+ "notes": "Polyfork 무료 모델, 메시(GLB)는 CC BY 4.0 선택 (https://polyfork.dev/licensing 확인); 미리보기는 GLB 를 러너에서 직접 렌더; 자동 수집",
+ "preview": "preview.png",
+ "kind": "3D 모델"
+}
