@@ -4,3 +4,7 @@ tree-stump-00f3bf seeded
 shipping-label-printer-ba8a6a seeded
 fire-arena-e2e3ef seeded
 iron-standing-brazier-89d117 seeded
+candy-cane-arch-c17ce3 seasonal
+elf-wrapping-table-96c704 seasonal
+two-seat-toboggan-09392b seasonal
+wooden-runner-sled-30bcc1 seasonal
