@@ -1,0 +1,4 @@
+Source: https://polyfork.dev/asset/runway-edge-light-run-ebe7e1
+License: CC-BY 4.0 (Polyfork 무료 모델 메시 파일, CC BY 4.0 선택)
+Checked: 2026-11-23 (GitHub Actions runner, https://polyfork.dev/licensing)
+Note: 썸네일/렌더/HD/mjs 는 CC BY 범위 밖이라 포함하지 않음
