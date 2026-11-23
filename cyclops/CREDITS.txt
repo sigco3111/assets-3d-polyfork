@@ -1,0 +1,5 @@
+Cyclops
+제작자: Polyfork
+출처: https://polyfork.dev/asset/cyclops-base
+라이선스: CC-BY 4.0
+표기: Cyclops by Polyfork (https://polyfork.dev/asset/cyclops-base), CC BY 4.0
