@@ -1,0 +1,15 @@
+{
+ "name": "Ice Rink Tile",
+ "slug": "ice-rink-tile",
+ "zip": "ice-rink-tile.zip",
+ "file": "ice-rink-tile/ice-rink-tile.zip",
+ "author": "Polyfork",
+ "url": "https://polyfork.dev/asset/ice-rink-tile-aceb6a",
+ "license": "CC-BY 4.0",
+ "attr": "Ice Rink Tile by Polyfork (https://polyfork.dev/asset/ice-rink-tile-aceb6a), CC BY 4.0",
+ "date": "2026-11-23",
+ "tags": "3d,polyfork,lowpoly",
+ "notes": "Polyfork 무료 모델, 메시(GLB)는 CC BY 4.0 선택 (https://polyfork.dev/licensing 확인); 미리보기는 GLB 를 러너에서 직접 렌더; 자동 수집",
+ "preview": "preview.png",
+ "kind": "3D 모델"
+}
