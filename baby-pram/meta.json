@@ -1,0 +1,15 @@
+{
+ "name": "Baby Pram",
+ "slug": "baby-pram",
+ "zip": "baby-pram.zip",
+ "file": "baby-pram/baby-pram.zip",
+ "author": "Polyfork",
+ "url": "https://polyfork.dev/asset/baby-pram-73d9f2",
+ "license": "CC-BY 4.0",
+ "attr": "Baby Pram by Polyfork (https://polyfork.dev/asset/baby-pram-73d9f2), CC BY 4.0",
+ "date": "2026-11-23",
+ "tags": "3d,polyfork,lowpoly",
+ "notes": "Polyfork 무료 모델, 메시(GLB)는 CC BY 4.0 선택 (https://polyfork.dev/licensing 확인); 미리보기는 GLB 를 러너에서 직접 렌더; 자동 수집",
+ "preview": "preview.png",
+ "kind": "3D 모델"
+}
