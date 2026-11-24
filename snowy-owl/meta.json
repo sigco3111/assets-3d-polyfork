@@ -1,0 +1,15 @@
+{
+ "name": "Snowy Owl",
+ "slug": "snowy-owl",
+ "zip": "snowy-owl.zip",
+ "file": "snowy-owl/snowy-owl.zip",
+ "author": "Polyfork",
+ "url": "https://polyfork.dev/asset/snowy-owl-9e83d6",
+ "license": "CC-BY 4.0",
+ "attr": "Snowy Owl by Polyfork (https://polyfork.dev/asset/snowy-owl-9e83d6), CC BY 4.0",
+ "date": "2026-11-24",
+ "tags": "3d,polyfork,lowpoly",
+ "notes": "Polyfork 무료 모델, 메시(GLB)는 CC BY 4.0 선택 (https://polyfork.dev/licensing 확인); 미리보기는 GLB 를 러너에서 직접 렌더; 자동 수집",
+ "preview": "preview.png",
+ "kind": "3D 모델"
+}
