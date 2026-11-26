@@ -1,0 +1,15 @@
+{
+ "name": "Throne of Zeus",
+ "slug": "throne-of-zeus",
+ "zip": "throne-of-zeus.zip",
+ "file": "throne-of-zeus/throne-of-zeus.zip",
+ "author": "Polyfork",
+ "url": "https://polyfork.dev/asset/throne-of-zeus-20104d",
+ "license": "CC-BY 4.0",
+ "attr": "Throne of Zeus by Polyfork (https://polyfork.dev/asset/throne-of-zeus-20104d), CC BY 4.0",
+ "date": "2026-11-26",
+ "tags": "3d,polyfork,lowpoly",
+ "notes": "Polyfork 무료 모델, 메시(GLB)는 CC BY 4.0 선택 (https://polyfork.dev/licensing 확인); 미리보기는 GLB 를 러너에서 직접 렌더; 자동 수집",
+ "preview": "preview.png",
+ "kind": "3D 모델"
+}
