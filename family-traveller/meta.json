@@ -1,0 +1,15 @@
+{
+ "name": "Family Traveller",
+ "slug": "family-traveller",
+ "zip": "family-traveller.zip",
+ "file": "family-traveller/family-traveller.zip",
+ "author": "Polyfork",
+ "url": "https://polyfork.dev/asset/family-traveller-9af47e",
+ "license": "CC-BY 4.0",
+ "attr": "Family Traveller by Polyfork (https://polyfork.dev/asset/family-traveller-9af47e), CC BY 4.0",
+ "date": "2026-11-27",
+ "tags": "3d,polyfork,lowpoly",
+ "notes": "Polyfork 무료 모델, 메시(GLB)는 CC BY 4.0 선택 (https://polyfork.dev/licensing 확인); 미리보기는 GLB 를 러너에서 직접 렌더; 자동 수집",
+ "preview": "preview.png",
+ "kind": "3D 모델"
+}
